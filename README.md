@@ -2,7 +2,6 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Boston House Pricing Prediction</title>
 </head>
 <body>
 	<h1>Boston House Pricing Prediction</h1>
